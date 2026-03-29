@@ -1,12 +1,15 @@
 {
-  "title" : "Braveheart",
+  "title" : "Braveheart656",
   "year" : 1995,
   "director" : "Mel Gibson",
-  "genres" : null,
+  "genres" : [ ],
   "rating" : 0.0,
   "overview" : null,
   "list" : null,
-  "subtitles" : null,
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
   "imdb_id" : null,
   "imdb_url" : null,
   "poster_url" : null,
