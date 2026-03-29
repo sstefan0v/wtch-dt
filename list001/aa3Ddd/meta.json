@@ -1,0 +1,17 @@
+{
+  "title" : "aa",
+  "year" : 3,
+  "director" : "ddd",
+  "genres" : [ ],
+  "rating" : 3.0,
+  "overview" : "",
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "imdb_id" : "dede",
+  "imdb_url" : "",
+  "poster_url" : "",
+  "stream_url" : "ENC:aYCozCY9lnfR73Ux:WxBi7ypB9SzLxrJFokHxSfVrR2c0n2yC3T0"
+}
