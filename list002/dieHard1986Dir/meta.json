@@ -1,0 +1,17 @@
+{
+  "title" : "Die Hard",
+  "year" : 1986,
+  "director" : "dir",
+  "genres" : [ ],
+  "rating" : 1.0,
+  "overview" : "",
+  "list" : "list002",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "imdb_id" : "https://www.imdb.com/title/tt30851137",
+  "imdb_url" : "",
+  "poster_url" : "",
+  "stream_url" : "ENC:j5BZrXLpzWmaduU3:IIn22BbO3_PPK6VVoVS72Q"
+}
