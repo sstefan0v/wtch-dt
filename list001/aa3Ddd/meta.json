@@ -1,7 +1,7 @@
 {
-  "title" : "aa",
-  "year" : 3,
-  "director" : "ddd",
+  "title" : "The Bride!",
+  "year" : 2026,
+  "director" : " Maggie Gyllenhaal",
   "genres" : [ ],
   "rating" : 3.0,
   "overview" : "",
@@ -11,7 +11,7 @@
     "bg" : [ ]
   },
   "imdb_id" : "dede",
-  "imdb_url" : "",
+  "imdb_url" : "https://www.imdb.com/title/tt30851137",
   "poster_url" : "",
-  "stream_url" : "ENC:aYCozCY9lnfR73Ux:WxBi7ypB9SzLxrJFokHxSfVrR2c0n2yC3T0"
+  "stream_url" : "ENC:JQW9nAiwt7kRsXtr:yS07bjT8cdtEaJeJRBwA7qRIDLYAZsXn2PxyRNla-ZMwgH8S3-_udr_Lha8ebKYTHyi-40q4DRhyPFtKknVajk-JVLOLOQsGM2MZdAiWEPxiOmdHIGVAdgVZoGTI14Lljq_bky4Y-64MF4-PFo50R9nH0YbM-1iHD1eqRwIbzl3aOrSYFPrX4aUjtKIR78oO9C44KSJbUAyay1Y9OlAxUH5JwhleJht4xQ_6hdH8HZg5Ta6L4EtWY3UMwlVf6WKf7jKCdVw8nmZkIJ0yKRW8PpCSsEsL0Osf3lG3kwHcUClE5HqaX70f4emKukbJi-kDtjN5IA"
 }
