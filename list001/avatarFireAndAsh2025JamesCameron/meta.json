@@ -3,15 +3,13 @@
   "year" : 2025,
   "director" : " James Cameron",
   "genres" : [ ],
-  "rating" : 0.0,
   "overview" : "",
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
-  "imdb_id" : "tt1757678",
-  "imdb_url" : null,
+  "tmdb_id" : "83533",
   "poster_url" : null,
-  "stream_url" : "ENC:6jhzgm6O3HYb7CtK:zT2aGi8jFtqZccTtMoLlhFGPFk5R2D-D9YLy12PwNTtngDza5-IwO_HoOTMu3brwaqguZSWz6NddAgn2t7OUBaKeWwgRUFAr1zj8hqogFkCO4FkOnxDUd8aDE0w3oCBx6wLx0ubAtjSiIjkBFEGCkKHEacSFrOHWSSfKCBDX_zhON1ZZw2NrNNoKoW8Tg08rDxEMCkDeeVj5NhsAB89jyxuMB6NUUWcjRpGzj_Og74oi6qTw26fxM-v_UA77vQijxFj9LHOae46DaYnem_wyAyvOdMwwEkY5GQGFgPkR8izgfMWliiRq_svvUAxy6Zx4DqnShxQe"
+  "stream_url" : "ENC:n3oYzS1ywZ4fxqJT:dpHwEznW0CnfiqOubM1yGBHVJ4dwEELFO_DZIoVAH7GLnI5qCkbYmwKW5u4lpUVM7W5K0xbeEAsztwfhGFb3jlkqk-JCoPl48BlgZhSbCuxd0zgvnKA9509ggDYEXW51AIBhSymB_Kc8WfhXusyi37zbN_vxoYQz7ynXqbSWqwQKj2e2b41DHkzR_4rpqG-F2ofSowYCmmwyzGcDsBE_PtVSSeXS3UwqzVYE9_S8QlforNjMK5dZQ4sAhm_-85k-I_gcAgqXoExm8VSNg_3jJcJBXTrTpQDqxmfB4sety0kx56mdZKqJ_u3oCIuzLYYe6hgbFoQT"
 }
