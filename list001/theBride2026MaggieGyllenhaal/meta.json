@@ -3,15 +3,13 @@
   "year" : 2026,
   "director" : " Maggie Gyllenhaal",
   "genres" : [ ],
-  "rating" : 6.0,
   "overview" : "1",
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
-  "imdb_id" : "https://www.imdb.com/title/tt30851137",
-  "imdb_url" : "https://www.imdb.com/title/tt30851137",
+  "tmdb_id" : "1159831",
   "poster_url" : "",
-  "stream_url" : "ENC:7Kp-mwhuSYUez8dw:VBUShEKdNKeq8cSgVlcXMXBIFV0LK9dlpy91eNjNr7JoZHTznW92gi5-Lxtpt44oBSb2s6r42tYugdD6wWNOYg9DDG_7TML4xuCu4I7_-xFBud6O94k7xwhzLkeSKWgFpfvhU80OhkjXh-HBFJBNCQ3hR-rNTeAlIH9Ff-TRZDAGQWkbkXDIv6Vbdi0xDc0coP6IXfU--FWSNirs8_2PAuc31tqWu32JHYj92E7WeFlS3Yr--61OxBgSygS0_YAIEZNd3m5tBJZka2tZhoHHnOF6Gglq8Bswz1pOFhmG7zJOELL-VhUZzqSO_hCzeFBDbJVFtQ"
+  "stream_url" : "ENC:ds-4z34fo19_Jgtb:TQltny_fu_IGaQW0GvyfCqoTwwxDriRgjfydGheXKplVowTCRdBPqSD8jbzwR7iGo_opOAgCkhV4T6E_JtNnXDRF_S_nt5OheFtFyFjw0hV4SmCU8xIwDlkmai5umO__e-u9jYC4GusMvxbt_RpXT2Zcl2g3SUiCEJbs6te9ELc8xlhMsu61n-c2t6yJQ7dE3W93_c-_j1X2PZc7vFYIX_3OIaKEQss_AvlvWmWIvB51rJz0WX3YJYgTuwQxWHqdnqpdsSQzLqzEN3OeWHArOiDoLkVhLf9f95uvlFprVMgkN72RSZPhmoKFkOGYElCjQbkj3A"
 }
