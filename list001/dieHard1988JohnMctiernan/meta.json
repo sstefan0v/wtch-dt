@@ -2,14 +2,14 @@
   "title" : "Die Hard",
   "year" : 1988,
   "director" : "John McTiernan",
-  "genres" : [ "action", "thriller" ],
+  "genres" : [ "Action", "Thriller" ],
   "overview" : "",
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
-  "tmdb_id" : "1084187",
+  "tmdb_id" : "562",
   "poster_url" : null,
-  "stream_url" : "ENC:QUAfoGulZRMcDRHV:s1z_Tk-ULHrQCvp6mEqMC8HgA4rYReHF_00OYavSCPbtgJgQgEDYY5fRhWEbR7pExi_sxQFqW0Oi1tHjIPEzO_owor9vVVrpHMntTkY_62HiaFJryaYcGM48yjU8ayyNJRsGvNPTzBbEHQi9xmQguDrUjxNvpMad13XqPKnxxwljoLOb2RW3r_TnWScZQCo_7Dfecwc7miSF15TC5VjsqpecSMPHKqIalm8aGts6cfIhg0s9rFQl_gxASbUEblvojxTDfd-qIOcY0yrRFoEGy30ffU7yO60MTPrx8JMu4pwKbzwt0Y20oLqCLtDz5kIXVAoUD-qbxw"
+  "stream_url" : "ENC:dsnSi0wpJoYP7I0V:oAtKN3rj9dd7J6wBcwJQCE8Kzdzd5YcVjm5dfx-V6FqN2z1oN0JNutgy0kBKgckUZn1D7W2xoRtIEjaEelH57_7Oij6GXCNg76KXMtWpA3lOjhZeGooVm2YnRDpcvh6KHP_t4-K--tu5049klO0axvEug2mEeQAt1VD7OjrC5AOjrOQug-WsHFjXm41G2l3OVLeQH5jVIUK9FKVJ_IB4id5QRKPrNeATjl22iyJ8z0bc8Rf1d_eEKhQqIzALJCJcU0gJRK_iFYiuhBJeaOBz9J5Vk_TI9e6yM4HaRpP8ZOZad8P5X5vbkjriiJQohFYNA1_8HbU8Rw"
 }
