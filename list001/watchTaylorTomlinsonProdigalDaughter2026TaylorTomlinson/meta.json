@@ -3,15 +3,13 @@
   "year" : 2026,
   "director" : "Taylor Tomlinson",
   "genres" : [ ],
-  "rating" : 0.0,
   "overview" : "",
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
-  "imdb_id" : null,
-  "imdb_url" : null,
+  "tmdb_id" : "1617908",
   "poster_url" : null,
-  "stream_url" : "ENC:Y6n9K5-VVf_8hzmC:miBZBbfJkxNpRzh29UIWJx77JkDlZ8yb4PsOHuYmNgCyuIDYs61bNISyKKXDzLIuIT_yV-7pGtqob1AhhdsV4w82Bxhw05mautJZO1hv5vyP_3F0f1zN24hQgktppes2n3gMh5D03KCivI_3K40ixj9O7AP7ybE3XX3cHKp5OdExBxvvI22WZfgRFHowNb8MJAk3td_g4gm1ofOryxQjfO7Zp7PsE1t7gP3zfrB7BqbRu0T6SDRPPvfxyP-mAewa0tPMq86801Y8g2-q4LYvegEOE51R8IA7z6uykiPEdZy2DDaaPy-m_rnkrAyUtS_zziGCIQ"
+  "stream_url" : "ENC:ztR9id9tiDEcwbBW:7U_c3-s67d_4pVWa0DFQkaosEbvfo4uW5TJ4Axs2lo8rVpQsMJJ5zU_L8f6UdPWi6yDibtESYaby5853QCqqEtezTtPpN8hm6gDUP_CvMbJxbpZE3qIr1IhYDqW_rAE1e3z1mTbGs15sQW9bsEqtgTI-8RKkF_Yq9v0NbTV0rtr-D3UcuW1aLBhpgQI6BU2m4XUtQf26IIwCqNWu5qIGcxug94PWZNI0iXpFabUkZIi9Ti_ooiDouuHgFaw8is2mxjO_FxgTgcAFMBwV-wedoriDcXTp3vcHbyFFdWbbdaa44v6iuEdsnha48rPXAKH20Xh48A"
 }
