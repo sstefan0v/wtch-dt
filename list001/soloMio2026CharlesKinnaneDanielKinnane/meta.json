@@ -3,15 +3,13 @@
   "year" : 2026,
   "director" : "Charles Kinnane, Daniel Kinnane",
   "genres" : [ ],
-  "rating" : 0.0,
   "overview" : "",
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
-  "imdb_id" : null,
-  "imdb_url" : null,
+  "tmdb_id" : "1291335",
   "poster_url" : null,
-  "stream_url" : "ENC:nb4G2RCh1GBWYlBX:XuW8M6fNOhWMS3NQViHePnvRWDm_4Mbb21d0-oHyplLQt1j-sXC9CAZYWSryyqOP-71clw4TI0p3lm6S9Od6cyFW_saQJZ9wzSFY-qBndrxnVwbNQnFuiNW1p9Q0Uc5xlL4VD0Bc1ab04OU4Akz7K3TZuXY0P8GcQh2vu44HC_HFcewO7cdGuznDSPxMaD1esnybp7p77w_fytZonJUBfGxZlbAkmZhhqOs6qmxBWGh878MFmJoxXDnrWs_wUVypOuPOzwAK-i8vVOhqB4GueP4awxCmxwa64W4Eoy9hm-PjCgciIDkXDA2L42-YkHgLCt_xhlOT"
+  "stream_url" : "ENC:niQjkFGX24y4UC_N:BBHL5xB9orFqzn2QdHGRbgR3DviqzpOqkvWFSyc32AMfy99IYFWb7fAAb-wxr4u_lBPmko-JczDgBq8RdGNqu5AqpfMIWDL33IjIunhnHOK3MvIYiZO5vyCoCQY-shEifPffTWt2OVOAb34mo4kQdJgyozf0LCW7mboCIdKggCA467Y7ud4w_2XMH6MakmggVb5j7QeL2Te3Ti74cneUHbVWZlIHy3iQXtar-R1jhRDhDnnFJg-ewm6radMk7LttbBKtsK2LcoSesxkbqd-uafxAORk_hmlsjKJPooOeBqherHRloD0cM4-qIYCBFTd7TuFFyNkl"
 }
