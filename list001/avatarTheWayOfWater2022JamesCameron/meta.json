@@ -2,16 +2,14 @@
   "title" : "Avatar: The Way of Water",
   "year" : 2022,
   "director" : "James Cameron",
-  "genres" : [ ],
-  "rating" : 0.0,
+  "genres" : [ "Action", "Adventure", "Science Fiction" ],
   "overview" : "",
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
-  "imdb_id" : null,
-  "imdb_url" : "https://www.imdb.com/title/tt1630029/",
+  "tmdb_id" : "76600",
   "poster_url" : null,
-  "stream_url" : "ENC:o9O0Pg3L-kae0ozU:dX_Y4ZouCRfQ5JJoZWKeMglIFPdrkit0OBSWmBFImTpIKWoSaEeHkSlyTMrfgC78EWiNaURemMIO7YRy66GnvTPNCLTpMJExAkG9P75RJUoO6UOASjhoPBwL7qhS0Zx5ZsIEPct_0XEz38FZvyZ3SOjullXzGnrYb1HawTiwNg50axFiZHHFRofvyIPSmiajeeXlAinCWTOnmimPpsX6v1pN_JWfg7iWOapqhDD62Co93qa3gcH2y0IrgK0Nq6lbF6qi6zxZQcFFZ60RKpxEPjZmwhCJgRvtXQrok9oJpnTD-fP7TqNKauBqgMy2zD2kADqxhUhCwg"
+  "stream_url" : "ENC:EQKAplf-wM_cpZ3u:4NSgFf1X4lHrhipACIbmk76Qtg7XZfgp-3nkhZcFna2O7I8BOglTuNH-_J-j_wxuwF175GGX7a6diniN1sdFrZn5ATl8KxM4jlWVEA3ygA2VeYGsm_OrL-f-sI3r4u4TAB2w4RK_RpatJ8Qvo6YhKrh8q-5eBY2DtfWM3eqB9fTz3_2g5sVQ8cLS_jERFFiIJhKHis6d0ubebxwWTvdnzLyDI1LxAe0uoki18eUN-M7adEYYILuS2UmzP7Crwn6FzR6r0rDYu60ZlOg2-1XcyYd6Fl6stUj6-z5lA2moNHNoIS9embRuqJUGKCFheyKZFXnUYG2Cig"
 }
