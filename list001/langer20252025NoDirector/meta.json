@@ -3,15 +3,13 @@
   "year" : 2025,
   "director" : "no director",
   "genres" : [ ],
-  "rating" : 0.0,
   "overview" : "",
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
-  "imdb_id" : null,
-  "imdb_url" : null,
+  "tmdb_id" : "1084187",
   "poster_url" : null,
-  "stream_url" : "ENC:h0MaktzZUJvTFTQJ:-r1kaZ4YkDHWPeOXhmOXIETyembch6QvutlDtjhoUQr3zPh4vy7z9VEaM5MLC-9zmLheGpUDtg1dWgmuBWxUE6cRA-0CvC_tjW6IVAv-ZlYdBn3i1K_YmFyJhCWIIkoKf-nRqhPg36O1MYdXCZRP30Rx6W52QBkWx5ta-53GxP7pBTECP8BbLfx97JdAX3TruERhYulIzPisvcWEiqETigykBqd6mmCUPXPdWq9TyuIR4GHOEzUKUvTp-jmIb5A6n_etxT58_N6T-3OQRWvOe6WI7zHoYo_D0lIN1YR9h4KmXlR4oQWX9FTsdy5NFOkpLUZXAKI"
+  "stream_url" : "ENC:CLLG2KkvIzGNQ0wk:DplnKDlsybV0vJbAMsnXgMCX7eX7MdQlhB75QNqTVApuo31uafOcCe7ew0-JKIOV3piWLe7r4U3-WdGSc0m21hsn5mP8SY3bkBtGQJVJcuaf8uHcC3WRwPvxMjcHRdBg8BAN6buR9knFHkLj__lXbO1yj_cJa2RCESX4ol4UHu6pJP5tNu4E6rket-MQp_XaLED3Qc4Hecu7Hwcj-kAx7CEmoBxbJ3Kxe4fhIM1T6tO_FBkczWdBjeaeUB-YTLx1mPAKJysNK7ENoWEueyjqaLuS1W66AQ-SVM2wCdODyzla6zgjZAsRoYP6Q0_iJ0GSk0iBPAw"
 }
