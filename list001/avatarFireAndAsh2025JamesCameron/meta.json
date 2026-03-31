@@ -3,12 +3,12 @@
   "year" : 2025,
   "director" : "James Cameron",
   "genres" : [ "Science Fiction", "Adventure", "Fantasy" ],
-  "actors" : [ "Sam Worthington", "Zoe Saldaña", "Sigourney Weaver", "Stephen Lang", "Oona Chaplin", "Jack Champion", "Kate Winslet", "Cliff Curtis", "Joel David Moore", "CCH Pounder" ],
+  "actors" : [ "Sam Worthington", "Zoe Saldaña", "Sigourney Weaver", "Stephen Lang", "Oona Chaplin", "Jack Champion", "Kate Winslet", "Cliff Curtis", "Joel David Moore" ],
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
   "tmdb_id" : "83533",
-  "stream_url" : "ENC:EW0V53woU3_xGO-F:7BZQThdZjpbPxQBWanlViJa_DAAOTil_o8DBfNHZ9-TlBCAU0mAokHQfglJCzwBjahu9VllK6QbHgx6Y3AGIp08ErQJwXuX5h5khfseu5ndnfonHhP920EhYgwU8QqZG3oD85gaESMFfbJvKKmwqWFeLZPWIe7kXikeyO7XI0ntT4_xCeIBWcPaz-6KS3SQniqlQUmu61zrsXwPq_8ooFSozqOJtia9zdidOd8E-G2VtGX_6CZC0m1dmVzo-uV6ZUliZeUpQjr2WYkXMpaEe2LUvqLOm6eVHuXCbnVXxvT_lTjWPrwy5SQdYNLnilpGkA5uGi2ji"
+  "stream_url" : "ENC:fIAaYigioV-FAarj:B0YHsb37HeatQjIFYn7xkm2QGhIbpKvS8l_Rh2PSacAG-0sNu0txXEH3yD-QOiXN6mIDn7fVl4Ys7dfh2twDaNaxDCkLorXdEUrpM2Nhyp56KWFxY_S7ZTwOCtE8ytsQfkxrOqxEFZkZD_CNg0X1oGGx4UcWtIQ8ZkdKGyVfMBeDL7AWO82zVl2w45V_INPjQ8DCpZxpVviZb4x0gul8S7CT3lgJ2kCO_BPwzjmu1td2XTbrMevYltqH-y7E0-kDzAMLkJJtVhdDdNZaHIdcpTe5lvRjRVzR2btW_f3zohQwH7zieAQpbeO4-pOCgfXrWGRd8EW_"
 }
