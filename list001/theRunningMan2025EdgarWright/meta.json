@@ -1,0 +1,14 @@
+{
+  "title" : "The Running Man",
+  "year" : 2025,
+  "director" : "Edgar Wright",
+  "genres" : [ "Action", "Thriller", "Science Fiction" ],
+  "actors" : [ "Glen Powell", "William H. Macy", "Lee Pace", "Michael Cera", "Emilia Jones", "Daniel Ezra", "Jayme Lawson", "Sean Hayes", "Katy O'Brian", "Colman Domingo" ],
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "798645",
+  "stream_url" : "ENC:BnQPZVn9kKXgy61K:4o7UATTX-vVFXu5UGJ2cGMIMD4E9RXG-dV1tlvYLus8-4V_F6Tyi9navNMv_AbEfzlCfGF1uaYteXemWyqRJPjjzWnsZQtchZogvTnLw3MIZpsmlPsq_Vvpspznyh-XcUd80XkuneEUPYZzwWxNZg1V4pu2fXFWMeEveORPv3yIGj9iAj9E2jcj_K4zaqsg-fr6yTye0CGWi-6W2GsNfeOjk2FW6mOli3C8pcgf_dlt-gw7SzXT27jcrsMY-jTPsx_SD4FbT9LMg4T5fo5a93trY0pzpLxPEcHvrAbbBg4z_Nu6KPEUYOS3c6knWN22WQAuJKBk"
+}
