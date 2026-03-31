@@ -1,0 +1,14 @@
+{
+  "title" : "GOAT",
+  "year" : 2026,
+  "director" : "Tyree Dillihay",
+  "genres" : [ "Animation", "Comedy", "Family" ],
+  "actors" : [ "Caleb McLaughlin", "Gabrielle Union", "Stephen Curry", "Aaron Pierre", "Nicola Coughlan", "David Harbour", "Nick Kroll", "Jenifer Lewis", "Patton Oswalt", "Jelly Roll" ],
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1297842",
+  "stream_url" : "ENC:nKo6q5eslt9MEzTm:UldT-GWg0DXrWbBFcHs0vqbCstNG0T8Fq2MMW3MYFFxxKh9o5vMtM0LidxeeK087W6FRd1M63TWAL-pwF32_3ZlSz0P4DMJ4jl6JcCvCdY6SslpINRL28zdhp3xVGllmhYmNADiV4A3ImkwpY9tJr2kqChtLy3PUGHfDcS3Oybb0EpDaAWqnEStx-0xyL86njfqrzVY3S6iwYfSdkdS2ahedRD8U28HR_b5Qm9QA_JAeUUraJ4VhpnMsX0ceoU2WcU8zAVCOXOOUCZA97R6LdYiSVJWWbPAI0-y9JOqXnjv7Kk_GrLkI_NmqHQFC9f_O5yb6XwU"
+}
