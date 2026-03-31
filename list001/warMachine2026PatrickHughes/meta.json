@@ -1,0 +1,14 @@
+{
+  "title" : "War Machine",
+  "year" : 2026,
+  "director" : "Patrick Hughes",
+  "genres" : [ "Action", "Science Fiction", "Thriller" ],
+  "actors" : [ "Alan Ritchson", "Dennis Quaid", "Stephan James", "Jai Courtney", "Esai Morales", "Blake Richardson", "Keiynan Lonsdale", "Jack Patten", "Joshua Diaz", "Heather Burridge" ],
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1265609",
+  "stream_url" : "ENC:Wb_tYWsOaYM-Uera:SMCStlU6V-Zo9f-Bjk-b62xHmCBmq9Tl_FMA5mn31pLfvlJJP60b28GwixNeY3mlEIh8gCLX4w9NIO36jsW0PB2wDgjssxxQmD5YC6aOIe3DyzsyUEIWg9C2HdxnRgL07zJ9yvCEqxXT-0voyN4jaiagk5qoww7R0oK56ADl8D8WNmF_7cN9cXMndAWDKh51lLTJReu5dLFTb-yz3AuDf_6wYNVJubcSlHaBZ7fzdpG1M1NxS5lUeaaJ16iXIXaOe1ufiZZTH4BaMI6aqrRCmDrm96-PfaAGa7ZatkIiypbGV3MGBID2y54zak3B6gr6TQd0WYA"
+}
