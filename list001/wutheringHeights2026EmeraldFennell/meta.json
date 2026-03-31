@@ -1,0 +1,14 @@
+{
+  "title" : "Wuthering Heights",
+  "year" : 2026,
+  "director" : "Emerald Fennell",
+  "genres" : [ "Romance", "Drama" ],
+  "actors" : [ "Margot Robbie", "Jacob Elordi", "Hong Chau", "Alison Oliver", "Shazad Latif", "Martin Clunes", "Ewan Mitchell", "Amy Morgan", "Jessica Knappett", "Charlotte Mellington" ],
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1316092",
+  "stream_url" : "ENC:P7lEHJEDUAzv3Wk5:aZxYdjJyAoU8RWbkW6Ml5ALLe-AIK5ugPSc2JOZ5WjoZX21sVEMc6ESfQS2ANV6URNmcZwh40CKCTtuGHS-7DWjbLGZxZ7Es_o29mmxz-4MUqufJHod2tpEnFGhvSJ0arxvaMCKGOQ9IQ1lJRXZ5H56pV9CemR3fDTx3ja1iYPV48mcOm1F2RKhrpAITEN-oGrdgmPWmbE1GyMabXqAA6RgXN19_I2p295Ne2exmddS0CmkJjBkBaobGnyZyfOZ4NoKsk5grupGBy550YTviu8NkUo_ssx5GJsXMMn9ZRJVMCwpOOVCVNGKRACtGIZcgN0PT5S8omw"
+}
