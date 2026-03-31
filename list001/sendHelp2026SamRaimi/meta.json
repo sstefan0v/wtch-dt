@@ -1,0 +1,14 @@
+{
+  "title" : "Send Help",
+  "year" : 2026,
+  "director" : "Sam Raimi",
+  "genres" : [ "Horror", "Thriller", "Comedy" ],
+  "actors" : [ "Rachel McAdams", "Dylan O'Brien", "Edyll Ismail", "Dennis Haysbert", "Xavier Samuel", "Chris Pang", "Thaneth Warakulnukroh", "Emma Raimi", "Kristy Best", "Francesca Waters" ],
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1198994",
+  "stream_url" : "ENC:T7cI1kFmhmVqnX1i:DN4VXjGtANoOjqPAOE2SS-mKJ4zznuQsT7M1MBQarrZBVikGNd7BTXOXmtDLBZKub5AyoenbIG3YQ38QKZyG-v0bblgtWMnYFoS9leTVvfkD1xcFlAKPV9PQGgC-R6ajidWSd36KHRQrzF-WNraqt15-_C9CsdXVpeCDMNaWFyiVyXSwvh4-S3DkkN67wuBjR5lNgcJkOmJG1dvaryGkGXc1fvucSnvAbsK7edGNRTRM4KCaMrAwNelMlTQQVyUaXxo-ioiAbBgyNILD8rZssUVte77gtn_dgGJAvFx4cfAbyEwTXsE_Z68xH48O73uvNDPMER7J2A"
+}
