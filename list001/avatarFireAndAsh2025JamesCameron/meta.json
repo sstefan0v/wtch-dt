@@ -1,4 +1,5 @@
 {
+  "type" : null,
   "title" : "Avatar: Fire and Ash",
   "year" : 2025,
   "director" : "James Cameron",
@@ -10,5 +11,5 @@
     "bg" : [ ]
   },
   "tmdb_id" : "83533",
-  "stream_url" : "ENC:fIAaYigioV-FAarj:B0YHsb37HeatQjIFYn7xkm2QGhIbpKvS8l_Rh2PSacAG-0sNu0txXEH3yD-QOiXN6mIDn7fVl4Ys7dfh2twDaNaxDCkLorXdEUrpM2Nhyp56KWFxY_S7ZTwOCtE8ytsQfkxrOqxEFZkZD_CNg0X1oGGx4UcWtIQ8ZkdKGyVfMBeDL7AWO82zVl2w45V_INPjQ8DCpZxpVviZb4x0gul8S7CT3lgJ2kCO_BPwzjmu1td2XTbrMevYltqH-y7E0-kDzAMLkJJtVhdDdNZaHIdcpTe5lvRjRVzR2btW_f3zohQwH7zieAQpbeO4-pOCgfXrWGRd8EW_"
+  "stream_url" : "ENC:ORe0iZlhgpLliqb5:A6LgemkQkX-MJyj8xeh8eM4iPgZNAVl_Siuk89O4tr1VYTZg_BKOIKVs018R3Ojh_rqzmqo_6rIcDP2FS-O5KjSXkco1oYbaFKDlfeTgXYgVm20XUesuWg7CWN0BAy9iNwtfm0KP-D4QAlDYfdcMe0TViqaQPCQ-JgcC5BtAZUTabwx8CTRqEwHz_RPNaLxdoFebMGsJLIjd_pGVO5oyWUaFuWg2O-CZres0OERihrqTmoFHrwBfj5aoO6gDYH-Ur-OXPyZIGwj6jwDgketSC0dLybfCV8nId3H0mx7HD3pxCa1hk76GezeJR7kvCCC0wRgEqf0z"
 }
