@@ -1,0 +1,12 @@
+{
+  "type" : "series",
+  "title" : "Shark",
+  "year" : 2015,
+  "director" : null,
+  "genres" : [ "Документален" ],
+  "actors" : [ "Paul McGann" ],
+  "list" : "srrs",
+  "subtitles" : null,
+  "tmdb_id" : "65165",
+  "stream_url" : null
+}
