@@ -1,0 +1,14 @@
+{
+  "title" : "Redux Redux",
+  "year" : 2026,
+  "director" : "Matthew McManus, Kevin McManus",
+  "genres" : [ "Science Fiction", "Mystery", "Thriller" ],
+  "actors" : [ "Michaela McManus", "Stella Marcus", "Jeremy Holm", "Jim Cummings", "Taylor Misiak", "Dendrie Taylor", "Derick Alexander", "Raphael Chestang", "Debra Christofferson", "Minita Gandhi" ],
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1340110",
+  "stream_url" : "ENC:HTaV8VWEH5QPC_bF:ON9sBImN7-NiiPFEoF9z23CYv8mn7MzQs_gKWMlP82WX2sp8tXk1S2nU-AyAOVDKRMGpi4q4gD625uI8gXod0uTQKANvIEvaQMbbyEhU8FbW1PgXUDPyyylxmpIneGHH6F0z4HjigMe4c6zsJAMk-_YSFnBSESOK556s5Pp5khIIrOj4m2yWJO-7Po3iCXCr73m_TuDtkFtf1PoG3hkkF_klkWmmiaYB-z_rG2wcQLddVG0XD6GizECqjH-7GnG-DwhGhnBwfRAeDNYCt5zobT7Xk56iW4PW9P2aXYuqTMsiwERzj1KrmvSEP2akJLUTUySMTA"
+}
