@@ -1,0 +1,12 @@
+{
+  "type" : "series",
+  "title" : "TECX",
+  "year" : 1990,
+  "director" : null,
+  "genres" : [ ],
+  "actors" : [ "Джейсън Айзъкс", "Jenny Agutter", "Tom Wilkinson", "Rob Spendlove" ],
+  "list" : "rel",
+  "subtitles" : null,
+  "tmdb_id" : "37855",
+  "stream_url" : null
+}
