@@ -1,0 +1,12 @@
+{
+  "type" : "series",
+  "title" : "The Dinosaurs",
+  "year" : 2026,
+  "director" : null,
+  "genres" : [ "Документален" ],
+  "actors" : [ "Морган Фрийман" ],
+  "list" : null,
+  "subtitles" : null,
+  "tmdb_id" : "313298",
+  "stream_url" : null
+}
