@@ -1,0 +1,14 @@
+{
+  "title" : "Cold Storage",
+  "year" : 2026,
+  "director" : "Jonny Campbell",
+  "genres" : [ "Horror", "Science Fiction", "Comedy" ],
+  "actors" : [ "Joe Keery", "Georgina Campbell", "Liam Neeson", "Lesley Manville", "Sosie Bacon", "Aaron Heffernan", "Andrew Brooke", "Rob Collins", "Darrell D'Silva", "Clare Holman" ],
+  "list" : "list001",
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "696393",
+  "stream_url" : "ENC:t7FgbLloU0zpw5Co:3GMWG6lgl4LdUOu83a9Iqt86NuHBXimNc1Euyp-EQzfOp1P4LOLHNGaVS3To2ns5EjC7SRxRKbg9ce_Me9g0eTexb97PJpl7zbLMq1eBl3oFdSemQDtLpYg39-iCfUq-9joWegQCIXMAs4D96fdROA_djEhGqQMH6H_Pft-skUH4Vz5RrS2aWZbsybnk2CDoDVv1PkCLj_RjgvxifoYwKomWdgsI93c7QzbJJ1WuTQaCCcb2ns0iLgaRi4IopiYlwkOfqOIHKKYNSXHKHf4WqGQ6VLWS26bz6zo29fCLtqHoWN9oPf_2FAg0k9gZdTBGbpH20n1N"
+}
