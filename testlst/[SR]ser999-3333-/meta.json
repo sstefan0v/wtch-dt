@@ -1,0 +1,12 @@
+{
+  "type" : "series",
+  "title" : "ser999",
+  "year" : 3333,
+  "director" : null,
+  "genres" : [ ],
+  "actors" : [ ],
+  "list" : "testlst",
+  "subtitles" : null,
+  "tmdb_id" : "",
+  "stream_url" : null
+}
