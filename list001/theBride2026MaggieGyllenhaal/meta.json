@@ -1,15 +1,14 @@
 {
-  "title" : "The Bride",
+  "title" : "The Bride!",
   "year" : 2026,
-  "director" : " Maggie Gyllenhaal",
-  "genres" : [ ],
-  "overview" : "1",
+  "director" : "Maggie Gyllenhaal",
+  "genres" : [ "Science Fiction", "Horror", "Fantasy" ],
+  "actors" : [ "Jessie Buckley", "Christian Bale", "Peter Sarsgaard", "Annette Bening", "Jake Gyllenhaal", "Penélope Cruz", "John Magaro", "Matthew Maher", "Jeannie Berlin", "Zlatko Burić" ],
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
   "tmdb_id" : "1159831",
-  "poster_url" : "",
-  "stream_url" : "ENC:ds-4z34fo19_Jgtb:TQltny_fu_IGaQW0GvyfCqoTwwxDriRgjfydGheXKplVowTCRdBPqSD8jbzwR7iGo_opOAgCkhV4T6E_JtNnXDRF_S_nt5OheFtFyFjw0hV4SmCU8xIwDlkmai5umO__e-u9jYC4GusMvxbt_RpXT2Zcl2g3SUiCEJbs6te9ELc8xlhMsu61n-c2t6yJQ7dE3W93_c-_j1X2PZc7vFYIX_3OIaKEQss_AvlvWmWIvB51rJz0WX3YJYgTuwQxWHqdnqpdsSQzLqzEN3OeWHArOiDoLkVhLf9f95uvlFprVMgkN72RSZPhmoKFkOGYElCjQbkj3A"
+  "stream_url" : "ENC:VRutVCJetIVkyBPS:EaL2rYdzoNfteDVOWq4HLTLXfq5AbspT8yJamNVu6EwxiS8rmIeSiAhhtwRgv_jSrkW8OaTqedB4PCiXpkGzu4ipHHGgKXFLSNEy4A45CYxyNRG_HFv8tb-svjVOlll_XQEPd7M3vs7e6brvZjdzPN3TrVaLuWnd400Bkutjs1nBkK1Ol0UazXUXsOZfkRkqsq0Wh_eNFE-XX52jQ3IVz_qENpfD44kxmxr_XWq94q-VbFcaHSg8jybw8C-lVwPXPsYrceYWhfRFoQqxudOYyGRHBs1j6KpHGiYYDXFrCTYR7HB5gFGqpbSwdouKRoTauQ_bug"
 }
