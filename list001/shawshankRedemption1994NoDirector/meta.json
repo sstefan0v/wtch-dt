@@ -3,13 +3,12 @@
   "year" : 1994,
   "director" : "no director",
   "genres" : [ ],
-  "overview" : "",
+  "actors" : [ ],
   "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
   "tmdb_id" : "278",
-  "poster_url" : null,
-  "stream_url" : "ENC:PQffEaJwFumFSvK_:VohU15sFsBQT3SId6kYJK5bDzF8Orxq6uuERDOvYxpPEsx3c0YAnSfx_BM9xz7A5uUID63SPp_y2xH08-3xFqv8m69D80MJ4pQSq7sE6_axObK08POuhXNAJhNiEe2ze8SUbXXQ2kq5t5Z-MAeph88uKomiU2MiJN-VWEaPQluUz4yv4zeaIwCBhAH_eQWlSmJEZTMZi3cKKXLNG6a2HtXQTyRLADuXWW3xn12mPUa-Rt0FoUgG-6K-uHqR1zW3YsqwSa2p3lF4f6vBkiZ0LlPwDrdXBCsSWgqBkIvcq844rRMuVtliQeI9kwTY5ctdFZeFRQps"
+  "stream_url" : "ENC:Supn69P5lalOCYsf:ned7FDEA9yOW97md4K0mUXG8DWRV5JJRHlWQN9TzPnzVzzuD5NOdXvjj_V3SfanMxxiMCOLbcTrLvO23-zHnD7AgHxqsA1Jp70S1jIaOPmxvqg3t8XXQAKr0NgNVIQTfOCpLofc4qpIQMPOskUBd3qB4_QlKj9lXycKkqNmeVZLtZbD7Qiep0_-XQOuF_kXvaBk_Q8r1Xu0jula2zc2y80pCpHdQ53AhYRpStu2xUTA8Yiou9a4J2UcNd5ZHP0QABF1i1us6NN7cNtrJgwWbiBwrmJPwvEKsEUddqiDfUO-BN7MaJTu5DKDBLjF4V-xu2IpDMNo"
 }
