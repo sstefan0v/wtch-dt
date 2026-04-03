@@ -1,0 +1,10 @@
+{
+  "type" : "series",
+  "title" : "TEMP_SERIES",
+  "year" : 0,
+  "director" : "director",
+  "genres" : null,
+  "subtitles" : null,
+  "tmdb_id" : null,
+  "stream_url" : null
+}
