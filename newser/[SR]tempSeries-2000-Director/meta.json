@@ -1,10 +1,10 @@
 {
   "type" : "series",
-  "title" : "TEMP_SERIES",
-  "year" : 0,
-  "director" : "director",
-  "genres" : null,
+  "title" : "Age of Attraction",
+  "year" : 2026,
+  "director" : null,
+  "genres" : [ "Риалити" ],
   "subtitles" : null,
-  "tmdb_id" : null,
+  "tmdb_id" : "287390",
   "stream_url" : null
 }
