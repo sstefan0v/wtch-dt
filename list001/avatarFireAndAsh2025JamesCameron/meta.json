@@ -1,15 +1,14 @@
 {
   "type" : null,
+  "path" : null,
   "title" : "Avatar: Fire and Ash",
   "year" : 2025,
   "director" : "James Cameron",
   "genres" : [ "Science Fiction", "Adventure", "Fantasy" ],
-  "actors" : [ "Sam Worthington", "Zoe Saldaña", "Sigourney Weaver", "Stephen Lang", "Oona Chaplin", "Jack Champion", "Kate Winslet", "Cliff Curtis", "Joel David Moore" ],
-  "list" : "list001",
   "subtitles" : {
     "en" : [ ],
     "bg" : [ ]
   },
   "tmdb_id" : "83533",
-  "stream_url" : "ENC:ORe0iZlhgpLliqb5:A6LgemkQkX-MJyj8xeh8eM4iPgZNAVl_Siuk89O4tr1VYTZg_BKOIKVs018R3Ojh_rqzmqo_6rIcDP2FS-O5KjSXkco1oYbaFKDlfeTgXYgVm20XUesuWg7CWN0BAy9iNwtfm0KP-D4QAlDYfdcMe0TViqaQPCQ-JgcC5BtAZUTabwx8CTRqEwHz_RPNaLxdoFebMGsJLIjd_pGVO5oyWUaFuWg2O-CZres0OERihrqTmoFHrwBfj5aoO6gDYH-Ur-OXPyZIGwj6jwDgketSC0dLybfCV8nId3H0mx7HD3pxCa1hk76GezeJR7kvCCC0wRgEqf0z"
+  "stream_url" : "ENC:qz6UywodXW7TdAdN:_JoEM3cw5Hdj3d9amTbOshyRm1hg7sjbcZpN8_KDLu63mzu3sXth2trUea-_0wooeVNnOo0wkR5TWchKR7TCiqdev-1Y94jRLPmUkTetJHMkg48_ZTsgu28AYrgZJRC93zoEN3D3ccmwYt0P_j6q6VfWkSDWON081XzRlVY3d1hNIW-mdbonGZSq3t1sbsEUvjFsFVUN--BXvJEBmOa7Ax4S8NS6kk2lByfC0NEJikOZVdbG6yMJuxVcfwP0-SLMRUXHoMH5Pq7N7N-yNtFSeif5zh4_NyPGuSmKdIn5nQDkzRXl4oKAUjCRwMhfLiIqEqKZnnfb"
 }
