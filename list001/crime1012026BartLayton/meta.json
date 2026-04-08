@@ -1,0 +1,14 @@
+{
+  "type" : null,
+  "path" : null,
+  "title" : "Crime 101",
+  "year" : 2026,
+  "director" : "Bart Layton",
+  "genres" : [ "Crime", "Thriller" ],
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1171145",
+  "stream_url" : "ENC:wMRJrAMBEnY1jc5A:4Qnw8xa66dQ5sFbmbIztFCBKoohYcUrOik953Ib4RSghroP7oL9XLfEjyiNMABxYI03roplxUOUZjKbRqP2hOhdLj-nYECpqx45gM9G_fLr3nFR2aHXoTm-ZVKvaUg386PNCx1DB4-k_z_UPnri5X1Qfz583TOBBI2ble2Fb15JQeOYXOjS_wEQzxPNUAJc5JAmQea_dkhxv2k3xWc_Vqtj1umdjO-Qgs35uUxzk8STXMyyMXW2EXyUSksWXpeQcrNxraoRNlGgObR91y6zmuL2-8BD710eCikGq8spukM8c8kLWXQmbeR_j8zZpQLaNIApKVg"
+}
