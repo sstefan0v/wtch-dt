@@ -1,0 +1,14 @@
+{
+  "type" : null,
+  "path" : null,
+  "title" : "Hoppers",
+  "year" : 2026,
+  "director" : "Daniel Chong",
+  "genres" : [ "Animation", "Family", "Science Fiction", "Comedy", "Adventure" ],
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1327819",
+  "stream_url" : "ENC:PGzANYNVCKeTtef3:xX7Rh6EwH2J6rcoa8-kkgHKkSSIttzXki6GxQSYh9xPIkR4VlWaHyYIzJ6s6_AV5gb2aV1c4bfckHgaW3rOCRh2D17PvxaOkz4JyzumAtVJGahnBtXNIPyVQX-6VFmhTHTEzPuRVeO2J3v_h_pYYi8ZFCu4GfyJxLY8M-RC6n9PK9QhKALzyYKbdZxdfVoAhZNRwK1Pw4VKMpNnVw0Vv-BHBuT3EzZgLU7LfOk2RnLUcV1yTpsIehYsfm69RhSMSJ-42MRqfykLQkPyJneXgCXLVyoK32dIq4jz6ivaAuSc1iNY"
+}
