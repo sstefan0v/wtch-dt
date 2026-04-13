@@ -1,0 +1,14 @@
+{
+  "type" : null,
+  "path" : null,
+  "title" : "The Prestige",
+  "year" : 2006,
+  "director" : "Christopher Nolan",
+  "genres" : [ "Drama", "Mystery", "Science Fiction" ],
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1124",
+  "stream_url" : "ENC:T7DUUCh61RpNJJG1:lQzOPc7tccCms1b-_gMHvLLe5qPXlkfLLCvP0cm4tMdcU1Xmo3bqiCM35Y-MnOi3lzS3YwRaEr6eKjdMKIDfoCiBTEXP3Icnad5ohZFPX1tCCAtLCXkz8ODKhIp0b6Ee9ib1Ybrz4UIQF_qzTPDALc_T9lKXBNPIMxB30kaQe0UVJPj4AVbT_wUYpEHqoPCH_QSF_kKuMimtNB935Hqpz8HA7tamI8CXN6wy1nDmHlQHzh2aDYLJEp-WvhQ9V5tgTippBhHdS9l_a_FRBsFS3dthDF-ZrTDpPPWV7xTnKbKWq8TUyq-YryeioGEV3j90dea7YQ"
+}
