@@ -1,0 +1,14 @@
+{
+  "type" : null,
+  "path" : null,
+  "title" : "Don't Trip",
+  "year" : 2025,
+  "director" : "Alex Kugelman",
+  "genres" : [ "Comedy", "Thriller", "Horror" ],
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1084721",
+  "stream_url" : "ENC:p-DAaynqkJIuWx7y:z37nixIk7eSdAQ2QUCoKfifUeXR7dfgNxIVLjyNi5QkKOGBszdJ42v6P4eRzApexK_X8C6UWhg-BbUBtXVkT77-dFJmnt2ow-_dilQEH2BpjTl_ySBJ4QtxV1r9Wf66ollIkS6vHqo5_HtGBNeLac7FYNosjSXAGlqvuXe31V0q7cR6bZDOQsbD5ADv9BRvBpTk17c1AluZuty5cKmKek3TLJyhAy2QvUU31rflB3JXeZneu8-6p3LorlAQoxgDBu7udgx9Ip04efdWZeBFymQYLr9Pf79tPHAYvjDzNJvTZYfQGtyQjGNTKvK0fUcnh35_tIPmXVQ"
+}
