@@ -1,0 +1,14 @@
+{
+  "type" : null,
+  "path" : null,
+  "title" : "Victor Frankenstein",
+  "year" : 2015,
+  "director" : "Paul McGuigan",
+  "genres" : [ "Drama", "Science Fiction", "Thriller" ],
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "228066",
+  "stream_url" : "ENC:ckM0dPjOGR1sPldY:MCM7H5P5FYTpmgn6L-RDdEhSxt1IQki1Aa7W4uuHLnYpuy9uioKAefze7JyYNtXHt-z_ex2Y6x31WFzkQllebW73Q-bTxK39IP8QvjH8YSRPOHk4VG81FWj8YEw82TI3ueGUmuRXFi4cTo54CUAD5YAMObiK_m3XhBTzKfKZoAA0wXzkcMFIYsYFLxcuXZCH08ZOdNJqvOOEoTc-Qnnegjhw-zBI1OcsGGyXmwvee07WAqXa_9_wHq6DFweFxn72OPnXWel63FlP6oewEuPgOLhd8KTOR-nfKYsAPvRjk4Z6zNQlOujhaXs-F-q6W7XrQIRDI2-0"
+}
