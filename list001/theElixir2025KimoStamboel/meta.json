@@ -1,0 +1,14 @@
+{
+  "type" : null,
+  "path" : null,
+  "title" : "The Elixir",
+  "year" : 2025,
+  "director" : "Kimo Stamboel",
+  "genres" : [ "Horror", "Thriller" ],
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1306525",
+  "stream_url" : "ENC:_iGWxjO7fgjjBZ4T:kN7IIAcnviH1fzMRQeBd4gb1oEneZzzL7PuF_DBCxDUpb5WMVYCrDK0E8pU81mmUxatz85jeqjC4jVUHIPGIr8St--kX2zuWB0gLjSVmA211YpZqyv11x-roZqlaIpKHSTuHmSzNFG3Ai7u0Lk9_tJYCXdV_2ZPwzi-LsFNV71OAzJOEVZIMGzYZWvFeurifq9fBgbr-DUYVMxdxEQ37ngLD9GQW6SOpwwEjDccusM9YIxpwaPTbdp09KaJatMLfZ1oL6w68YdjYldQu8jX9l_IupFFuj-4upLeXjnwLR_u6CBhQUhC3aYyHiUwEklNC22v-6Q"
+}
