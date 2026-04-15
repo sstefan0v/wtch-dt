@@ -1,0 +1,14 @@
+{
+  "type" : null,
+  "path" : null,
+  "title" : "City Boy",
+  "year" : 2024,
+  "director" : "Legend",
+  "genres" : [ "Drama", "Crime", "Music" ],
+  "subtitles" : {
+    "en" : [ ],
+    "bg" : [ ]
+  },
+  "tmdb_id" : "1259534",
+  "stream_url" : "ENC:TKmBdO0GiYfEwVUT:s--oKJg2VODFpxK-nRhQ4v15oMvUhoL-CSTuk9UPeuyC0aY07eU4KqGSY_hSwVl9wUe_qsoqOnFwjC_mR2ZUguqMJXpAnvEjm4dp_96bsmRWUf2WUkR7cQ7rBB8-QfJHkkLuGSpHiOOFlAFlxsjSqBTabPHNKVdKlHAN8zGOt0MdhvMBPbnmG-IPJZXTosl3JNXDCXj2sS7GEervUaOjxxJ4mkHccNN8MTl4mcEDlv1TSh30PK_GonCsTLjDDEmHl64nGPzcZHlGXl8vaKxEZ3zDtYInC2O8qZ49s_IRrSk6VYEanS5RI_zEFOgZzt6YwRDngw"
+}
